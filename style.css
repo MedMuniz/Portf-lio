@@ -136,3 +136,8 @@ section.projetos {
     font-size: 24px;
     margin: 15px 0;
 }
+
+.navigation{
+    color: white;
+    text-decoration: none;
+}
